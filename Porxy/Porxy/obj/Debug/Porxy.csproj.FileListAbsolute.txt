@@ -1,0 +1,10 @@
+C:\Users\umutr\source\repos\Porxy\Porxy\bin\Debug\Porxy.exe.config
+C:\Users\umutr\source\repos\Porxy\Porxy\bin\Debug\Porxy.exe
+C:\Users\umutr\source\repos\Porxy\Porxy\bin\Debug\Porxy.pdb
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.Form1.resources
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.Properties.Resources.resources
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.exe
+C:\Users\umutr\source\repos\Porxy\Porxy\obj\Debug\Porxy.pdb
